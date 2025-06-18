@@ -1,0 +1,50 @@
+# 🏥 Clinical Dashboard in Tableau – Stroke Insights
+
+This Tableau dashboard provides visual analysis of stroke patterns using real-world clinical data from hospital records. It aims to uncover trends by age, gender, and work type while tracking overall patient outcomes.
+
+---
+
+## 📊 Dashboard Highlights
+
+- **📈 Stroke Trend by Age** – Understand which age groups are most affected.
+- **💼 Stroke Cases by Work Type** – Explore occupational patterns in stroke diagnosis.
+- **✅ KPI Card: Stroke Rate** – Key percentage of patients with stroke.
+- **🧬 Stroke % by Gender & Age Group** – Detailed breakdown of high-risk subgroups.
+
+---
+
+## 📁 Dataset Details
+
+- Source: [Patient Diagnosis Prediction](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+- CSV file with clinical features like age, gender, glucose level, hypertension, and stroke status.
+
+---
+
+## 🛠️ Tools Used
+
+- Tableau Public (for dashboard creation)
+- Excel (for basic preprocessing)
+
+---
+
+## 💡 Insights Gained
+
+- Stroke occurrence peaks in older age groups.
+- Private sector and self-employed individuals show higher stroke counts.
+- Gender disparity exists in stroke risk — requires further exploration.
+
+---
+
+## 📂 Project Files
+
+- `Tableau_Dashboard_Project.twb` – Tableau workbook
+- `dashboard_image.png` – Dashboard screenshot (to be uploaded)
+- `README.md` – Project explanation
+
+---
+
+## 👨‍💻 Author
+
+Sai Krishna Prasad Vibudi  
+Master’s Student in Business Analytics, University of North Texas  
+[LinkedIn Profile](https://www.linkedin.com/in/sai-krishna-prasad-vibudi-5a0227211/)
